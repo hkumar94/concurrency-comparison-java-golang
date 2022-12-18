@@ -1,5 +1,5 @@
 # concurrency-comparison-java-golang
-In this project, a detailed comparison has been done between JAVA and GOLAND on multiple parameters where their are performances has been accessed.
+In this project, a detailed comparison has been done between JAVA and GOLAND on multiple parameters where their performances has been accessed.
 
 
 ## Experiments Performed
