@@ -1,0 +1,16 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,javabench/TestJavaCache.Get
+inline,javabench/TestJavaCache.MultiGet
+inline,javabench/TestJavaCache.MultiPut
+inline,javabench/TestJavaCache.MultiPutGet
+inline,javabench/TestJavaCache.Put
+inline,javabench/TestJavaCache.PutGet
+inline,javabench/TestJavaCache.setup
+inline,javabench/TestJavaCache.tearDown
+inline,javabench/TestJavaMatrix.Multiply
+inline,javabench/TestJavaMatrix.setup
+inline,javabench/TestJavaMatrix.tearDown
